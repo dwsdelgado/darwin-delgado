@@ -1,67 +1,36 @@
-## Hi, I'm Darwin Delgado 👋
+## Hello 👋
 
-**Infrastructure Engineer** · Cali, Colombia 🇨🇴
+My name is Darwin, I'm from Cali, Colombia 🇨🇴 and I'm an Infrastructure Engineer.
 
-I design, automate and operate infrastructure — from bare metal Linux to cloud-native stacks. I build internal tools when the right one doesn't exist yet.
-
----
-
-### 🛠 Tech Stack
-
-**Operating Systems & Virtualization**
-
-![RHEL](https://img.shields.io/badge/Red_Hat_Linux-EE0000?style=flat&logo=redhat&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![KVM](https://img.shields.io/badge/KVM-0078D4?style=flat&logo=linux&logoColor=white)
-![oVirt](https://img.shields.io/badge/oVirt-0078D4?style=flat&logo=redhat&logoColor=white)
-
-**Containers & Orchestration**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white)
-
-**Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
-**Automation & IaC**
-
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-
-**Monitoring & Observability**
-
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)
-
-**Development**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-**Identity & Security**
-
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=microsoft&logoColor=white)
-![LDAP](https://img.shields.io/badge/LDAP-0078D4?style=flat&logo=microsoft&logoColor=white)
+- I specialize in designing, automating and operating infrastructure — from bare metal to cloud
+- I build internal tools when the right one doesn't exist yet
+- Currently focused on monitoring, observability and infrastructure automation
 
 ---
 
-### 📦 Projects
+## Skills
 
-| Project | Description | |
-|---------|-------------|---|
-| **ProbeManager** | Web panel to manage Prometheus + Blackbox Exporter targets — LDAP auth, role-based access | [![Docker Hub](https://img.shields.io/docker/pulls/darwindelgado/probemanager?label=pulls&logo=docker)](https://hub.docker.com/r/darwindelgado/probemanager) |
-| **postfix-relay** | Production-ready Postfix SMTP relay — Gmail, O365, multi-platform | [![Docker Hub](https://img.shields.io/docker/pulls/darwindelgado/postfix-relay?label=pulls&logo=docker)](https://hub.docker.com/r/darwindelgado/postfix-relay) |
-| **prometheus-stack** | Full monitoring stack — Prometheus, Alertmanager, Blackbox Exporter, Node Exporter | [![GitHub](https://img.shields.io/badge/GitHub-repo-181717?logo=github)](https://github.com/darwin-delgado/prometheus-stack) |
-| **grafana-stack** | Grafana with PostgreSQL, Redis sessions, LDAP/AD auth and Zabbix datasource | [![GitHub](https://img.shields.io/badge/GitHub-repo-181717?logo=github)](https://github.com/darwin-delgado/grafana-stack) |
+- **Linux** — Red Hat / Fedora specialist, day-to-day sysadmin and hardening
+- **Virtualization** — KVM, oVirt, on-premise private cloud
+- **Containers** — Docker, Docker Compose, custom image builds and CI/CD pipelines
+- **Cloud** — AWS, Azure, Azure DevOps
+- **IaC & Automation** — Ansible, Terraform
+- **Monitoring & Observability** — Prometheus, Grafana, Alertmanager, Blackbox Exporter, Zabbix
+- **Development** — Python (Flask), Nginx, PostgreSQL, Redis
+- **Identity** — Active Directory, LDAP, LDAPS integration
 
 ---
 
-### 📊 GitHub Stats
+## Projects
+
+- **[ProbeManager](https://hub.docker.com/r/darwindelgado/probemanager)** — Web panel to manage Prometheus + Blackbox Exporter targets with LDAP/AD auth and role-based access
+- **[postfix-relay](https://hub.docker.com/r/darwindelgado/postfix-relay)** — Production-ready Postfix SMTP relay container — Gmail, Office 365, multi-platform (amd64/arm64)
+- **[prometheus-stack](https://github.com/darwin-delgado/prometheus-stack)** — Full monitoring stack with Prometheus, Alertmanager, Blackbox Exporter and Node Exporter
+- **[grafana-stack](https://github.com/darwin-delgado/grafana-stack)** — Grafana with PostgreSQL backend, Redis sessions and Active Directory authentication
+
+---
+
+## GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=darwin-delgado&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160"/>
@@ -70,8 +39,6 @@ I design, automate and operate infrastructure — from bare metal Linux to cloud
 
 ---
 
-### 🔗 Links
+## Contact
 
-[![Website](https://img.shields.io/badge/www.darwindelgado.com-000000?style=flat&logo=googlechrome&logoColor=white)](https://www.darwindelgado.com)
-[![Docker Hub](https://img.shields.io/badge/Docker_Hub-darwindelgado-2496ED?style=flat&logo=docker&logoColor=white)](https://hub.docker.com/u/darwindelgado)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-darwin--delgado-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darwin-delgado)
+Find my portfolio and resume at **[darwindelgado.com](https://www.darwindelgado.com)**
