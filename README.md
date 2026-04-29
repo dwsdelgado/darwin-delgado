@@ -1,26 +1,17 @@
 ## Hola 👋
 
-Mi nombre es Darwin, vivo en Cali, Colombia 🇨🇴 y soy Ingeniero de Infraestructura & Cloud.
-
-- Me especializo en diseñar, automatizar y operar infraestructura — desde bare metal hasta cloud
-- Implemento y migro aplicaciones a microservicios y entornos contenerizados
-- Actualmente enfocado en monitoreo, observabilidad y automatización de infraestructura
-
----
+Mi nombre es Darwin, soy de Cali, Colombia 🇨🇴 y soy Ingeniero de Infraestructura & Cloud.
 
 ## Habilidades
 
-- **Linux** — Especialista Red Hat, administración, hardening, migrations y updates
-- **Virtualización** — KVM, oVirt, VMware, Proxmox, nube privada on-premise
-- **Contenedores & Orquestación** — Docker, Docker Compose, Kubernetes, CI/CD pipelines
-- **Cloud** — AWS (Cloud Practitioner), Azure, Azure DevOps, GitHub Actions
-- **Redes** — CCNA, CCNP
-- **IaC & Automatización** — Ansible, Terraform
-- **Monitoreo & Observabilidad** — Prometheus, Grafana, Alertmanager, Blackbox Exporter, Zabbix
-- **Identidad** — Active Directory, LDAP, LDAPS, FreeIPA
-
----
+- Linux Red Hat, KVM, oVirt, VMware, Proxmox
+- Docker, Kubernetes, CI/CD pipelines, GitHub Actions
+- AWS (Cloud Practitioner), Azure, Azure DevOps
+- Ansible, Terraform
+- Prometheus, Grafana, Zabbix — monitoreo y observabilidad
+- Redes CCNA, CCNP
+- Active Directory, LDAP, FreeIPA
 
 ## Contacto
 
-Portafolio **[darwindelgado.com](https://www.darwindelgado.com)**
+Portafolio en **[darwindelgado.com](https://www.darwindelgado.com)**
