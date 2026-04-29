@@ -1,26 +1,26 @@
-## Hello 👋
+## Hola 👋
 
-My name is Darwin, I'm from Cali, Colombia 🇨🇴 and I'm an Infrastructure Engineer.
+Mi nombre es Darwin, soy de Cali, Colombia 🇨🇴 y soy Ingeniero de Infraestructura.
 
-- I specialize in designing, automating and operating infrastructure — from bare metal to cloud
-- I build internal tools when the right one doesn't exist yet
-- Currently focused on monitoring, observability and infrastructure automation
+- Me especializo en diseñar, automatizar y operar infraestructura — desde bare metal hasta cloud
+- Construyo herramientas internas cuando la solución correcta no existe
+- Actualmente enfocado en monitoreo, observabilidad y automatización de infraestructura
 
 ---
 
-## Skills
+## Habilidades
 
-- **Linux** — Red Hat / Fedora specialist, day-to-day sysadmin and hardening
-- **Virtualization** — KVM, oVirt, on-premise private cloud
-- **Containers** — Docker, Docker Compose, custom image builds and CI/CD pipelines
+- **Linux** — Especialista Red Hat / Fedora, administración y hardening
+- **Virtualización** — KVM, oVirt, nube privada on-premise
+- **Contenedores** — Docker, Docker Compose, construcción de imágenes propias y pipelines CI/CD
 - **Cloud** — AWS, Azure, Azure DevOps
-- **IaC & Automation** — Ansible, Terraform
-- **Monitoring & Observability** — Prometheus, Grafana, Alertmanager, Blackbox Exporter, Zabbix
-- **Development** — Python (Flask), Nginx, PostgreSQL, Redis
-- **Identity** — Active Directory, LDAP, LDAPS integration
+- **IaC & Automatización** — Ansible, Terraform
+- **Monitoreo & Observabilidad** — Prometheus, Grafana, Alertmanager, Blackbox Exporter, Zabbix
+- **Desarrollo** — Python (Flask), Nginx, PostgreSQL, Redis
+- **Identidad** — Active Directory, LDAP, LDAPS
 
 ---
 
-## Contact
+## Contacto
 
-Find my portfolio and resume at **[darwindelgado.com](https://www.darwindelgado.com)**
+Portafolio y hoja de vida en **[darwindelgado.com](https://www.darwindelgado.com)**
