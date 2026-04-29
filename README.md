@@ -1,6 +1,6 @@
 ## Hola 👋
 
-Mi nombre es Darwin, soy de Cali, Colombia 🇨🇴 y soy Ingeniero de Infraestructura & Cloud.
+Mi nombre es Darwin, vivo en Cali, Colombia 🇨🇴 y soy Ingeniero de Infraestructura & Cloud.
 
 ## Habilidades
 
