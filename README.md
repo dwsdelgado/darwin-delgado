@@ -1,17 +1,20 @@
-## Hola 👋
+# Darwin Delgado
 
-Mi nombre es Darwin, vivo en Cali, Colombia 🇨🇴 y soy Ingeniero de Infraestructura & Cloud.
+Infrastructure Engineer based in Cali, Colombia.
 
-## Habilidades
+Currently working at a financial institution managing hybrid cloud
+infrastructure and IaC deployments with Terraform via Azure DevOps.
 
-- Linux Red Hat, KVM, oVirt, VMware, Proxmox
-- Docker, Kubernetes, CI/CD pipelines, GitHub Actions
-- AWS, Azure, Azure DevOps
-- Ansible, Terraform
-- Prometheus, Grafana, Zabbix — monitoreo y observabilidad
-- Redes CCNA, CCNP
-- Active Directory, LDAP, FreeIPA
+## Skills
 
-## Contacto
+- Cloud: AWS, Azure
+- IaC & Automation: Terraform, Ansible
+- Containers: Docker, Docker Compose, Podman, Kubernetes
+- Virtualization
+- Linux: Red Hat Enterprise Linux (RHCSA)
+- CI/CD: Azure DevOps, GitHub Actions
+- Observability: Grafana, Prometheus, Loki, Zabbix
 
-Portafolio en **[darwindelgado.com](https://www.darwindelgado.com)**
+## Blog & Portfolio
+
+[darwindelgado.com](https://www.darwindelgado.com)
