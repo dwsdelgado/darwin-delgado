@@ -3,6 +3,8 @@
 Infrastructure Engineer based in Cali, Colombia.
 Responsible for hybrid infrastructure across Azure, AWS and on-premise.
 
+*Always building something — from VM-to-container migrations to custom observability and platform tools.*
+
 ## Skills
 
 - Cloud: AWS, Azure
