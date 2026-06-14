@@ -1,9 +1,7 @@
 # Darwin Delgado
 
 Infrastructure Engineer based in Cali, Colombia.
-
-Currently working at a financial institution managing hybrid cloud
-infrastructure and IaC deployments with Terraform via Azure DevOps.
+Responsible for hybrid infrastructure across Azure, AWS and on-premise.
 
 ## Skills
 
